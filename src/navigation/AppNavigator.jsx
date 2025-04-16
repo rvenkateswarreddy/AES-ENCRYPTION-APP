@@ -6,7 +6,7 @@ import HomeScreen from '../screens/HomeScreen';
 import NotificationsScreen from '../screens/NotificationsScreen';
 import ChatScreen from '../screens/ChatScreen';
 import ProfileScreen from '../screens/ProfileScreen';
-import CreateSuperKeyScreen from '../passwordmanager/CreateSuperKey';
+import CreateSuperKeyScreen from '../passwordmanager/CreateSuperKeyScreen';
 import PasswordManager from '../passwordmanager/PasswordManager';
 import RetrievePasswordsScreen from '../screens/RetrievePasswords';
 
